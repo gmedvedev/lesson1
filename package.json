@@ -1,0 +1,15 @@
+{
+  "name": "lesson1",
+  "version": "1.0.0",
+  "description": "- Homebrew `brew`: менеджер пакетов для OS X - Node.js `node` : среда для выполнения javascript вне браузера - PostgreSQL `postgres`: SQL база данных ## Команды",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

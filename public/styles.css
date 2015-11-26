@@ -1,0 +1,17 @@
+.butt {
+  text-align: center;
+  background-color:blue;
+}
+.photo {
+  height: 100px;
+  width:100px;
+}
+.name {
+  font-size:22pt;
+}
+.butt a {
+  color: white;
+}
+.post {
+  font-size: 20pt;
+}
